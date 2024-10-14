@@ -1,0 +1,26 @@
+.sidebar{
+  min-height: 800px;
+}
+
+.app-container{
+  display: flex;
+}
+
+.content{
+  width: 100%;
+}
+.hastag{
+  margin: 0px 3px;
+}
+.card{
+  margin: 6px;
+}
+.reactions{
+  margin-top: 10px;
+}
+
+.create-post{
+  width: 80%;
+  margin-top: 50px;
+  margin-left: 10%;
+}
